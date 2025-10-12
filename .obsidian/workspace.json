@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Java Basics Overview (JDK,JRE,JVM).md",
+                "file": "2. Java Basics Overview (JDK,JRE,JVM).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Java Basics Overview (JDK,JRE,JVM)"
+              "title": "2. Java Basics Overview (JDK,JRE,JVM)"
             }
           }
         ],
@@ -211,9 +211,8 @@
   },
   "active": "8512157468f14fcb",
   "lastOpenFiles": [
-    "README.md",
-    "Java Basics Overview (JDK,JRE,JVM).md",
-    "Java Basics Overview (JDK,JRE,JVM).md",
-    "OOPS Concepts in Java.md"
+    "1. OOPS Concepts in Java.md",
+    "2. Java Basics Overview (JDK,JRE,JVM).md",
+    "README.md"
   ]
 }
