@@ -104,9 +104,23 @@
               "icon": "lucide-file",
               "title": "9. Java-pojo-enum-singleton-immutable"
             }
+          },
+          {
+            "id": "fb7561c9f09de2ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10. Interface.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10. Interface"
+            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -265,10 +279,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "bf02cee88f060fba",
+  "active": "fb7561c9f09de2ea",
   "lastOpenFiles": [
-    "8. Java Classes.md",
     "9. Java-pojo-enum-singleton-immutable.md",
+    "10. Interface.md",
+    "8. Java Classes.md",
     "7. Java Memory Management.md",
     "2. Java Basics Overview (JDK,JRE,JVM).md",
     "1. OOPS Concepts in Java.md",
