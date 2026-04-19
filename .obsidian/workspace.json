@@ -146,9 +146,93 @@
               "icon": "lucide-file",
               "title": "11. Reflection"
             }
+          },
+          {
+            "id": "371de23a8137126f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "12. Annotations.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12. Annotations"
+            }
+          },
+          {
+            "id": "8876f8231be1c1b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "13. Exception Handling.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13. Exception Handling"
+            }
+          },
+          {
+            "id": "2a6da23b873e0a71",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "14. Operators in JAVA.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "14. Operators in JAVA"
+            }
+          },
+          {
+            "id": "a54a0c82eb092871",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "15. Flow Statements.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15. Flow Statements"
+            }
+          },
+          {
+            "id": "9179d81b65d4c31b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "16. JAVA Collections.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16. JAVA Collections"
+            }
+          },
+          {
+            "id": "868b4b4c7c786d01",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "17. Java Collections Map and Set.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "17. Java Collections Map and Set"
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 15
       }
     ],
     "direction": "vertical"
@@ -307,19 +391,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "9cfb38753630d2bd",
+  "active": "868b4b4c7c786d01",
   "lastOpenFiles": [
+    "16. JAVA Collections.md",
+    "17. Java Collections Map and Set.md",
+    "15. Flow Statements.md",
+    "14. Operators in JAVA.md",
+    "13. Exception Handling.md",
     "10. Interface.md",
-    "11. Reflection.md",
     "9. Java-pojo-enum-singleton-immutable.md",
     "8. Java Classes.md",
     "7. Java Memory Management.md",
-    "2. Java Basics Overview (JDK,JRE,JVM).md",
-    "1. OOPS Concepts in Java.md",
     "6. Java Methods and Constructors.md",
-    "5. Java Non-Primitive Data Types.md",
     "4. Java Primitive Variables & Data Types.md",
     "3. Why only 1 Public class in JAVA.md",
+    "2. Java Basics Overview (JDK,JRE,JVM).md",
+    "1. OOPS Concepts in Java.md",
+    "12. Annotations.md",
+    "11. Reflection.md",
+    "5. Java Non-Primitive Data Types.md",
     "README.md"
   ]
 }
