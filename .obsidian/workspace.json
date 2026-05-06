@@ -76,9 +76,37 @@
               "icon": "lucide-file",
               "title": "22. Java Multithreading — Part 4"
             }
+          },
+          {
+            "id": "c2b063921a1ea79e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "27. Java Executor Framework and Concurrent File Reader.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "27. Java Executor Framework and Concurrent File Reader"
+            }
+          },
+          {
+            "id": "a67c1504e28377b7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "28. Callable Tasks with ExecutorService and Future.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "28. Callable Tasks with ExecutorService and Future"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -110,7 +138,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "counter",
+                "query": "executor.submit",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -131,11 +159,12 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 280.5
   },
   "right": {
     "id": "9f527cfbe229302e",
@@ -237,11 +266,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "7f52465863524b9a",
+  "active": "a67c1504e28377b7",
   "lastOpenFiles": [
+    "27. Java Executor Framework and Concurrent File Reader.md",
     "24. Thread Pool.md",
-    "26. Java Thread Synchronization.md",
+    "28. Callable Tasks with ExecutorService and Future.md",
     "22. Java Multithreading — Part 4.md",
+    "26. Java Thread Synchronization.md",
     "21. Java Multithreading — Part 3.md",
     "20. Java Multithreading — Part 2.md",
     "19. Java Multithreading — Part 1.md",
@@ -262,8 +293,6 @@
     "3. Why only 1 Public class in JAVA.md",
     "2. Java Basics Overview (JDK,JRE,JVM).md",
     "1. OOPS Concepts in Java.md",
-    "12. Annotations.md",
-    "11. Reflection.md",
-    "5. Java Non-Primitive Data Types.md"
+    "12. Annotations.md"
   ]
 }
